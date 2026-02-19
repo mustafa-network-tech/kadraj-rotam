@@ -119,17 +119,17 @@
         season: "Spring",
         year: "2022",
         status: "ARCHIVED",
-        mainImage: "https://images.unsplash.com/photo-1483728642387-6c3bdd6c93e5?auto=format&fit=crop&w=1600&q=90",
+        mainImage: "assets/img/whispespering1.jpg",
         caption: "Where the sky touches the soul.",
         description: "On the roof of the world, every turn reveals a new horizon. Thin air, deep silence, pure light. Prayer flags and stone trails make the journey feel timeless. This is as much inner travel as it is physical.",
         galleryImages: [
-          "https://images.unsplash.com/photo-1483728642387-6c3bdd6c93e5?auto=format&fit=crop&w=1400&q=80",
-          "https://images.unsplash.com/photo-1544198365-f5d60b6d8190?auto=format&fit=crop&w=1400&q=80",
-          "https://images.unsplash.com/photo-1585409677983-0f6c41ca9c3b?auto=format&fit=crop&w=1400&q=80",
-          "https://images.unsplash.com/photo-1533130061792-64b345e4a833?auto=format&fit=crop&w=1400&q=80",
-          "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1400&q=80",
-          "https://images.unsplash.com/photo-1482192596544-9eb780fc7f66?auto=format&fit=crop&w=1400&q=80",
-          "https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1400&q=80"
+          "assets/img/whispespering1.jpg",
+          "assets/img/whispespering2.jpg",
+          "assets/img/whispespering3.jpg",
+          "assets/img/whispespering4.jpg",
+          "assets/img/whispespering5.jpg",
+          "assets/img/whispespering6.jpg",
+          "assets/img/whispespering7.jpg"
         ]
       },
       {
@@ -139,16 +139,16 @@
         season: "Summer",
         year: "2023",
         status: "AVAILABLE",
-        mainImage: "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=1600&q=90",
+        mainImage: "assets/img/emerald1.jpg",
         caption: "The forest remembers everything.",
         description: "A living labyrinth of water, roots, and breath. The Amazon is not silent—it listens. Every step is answered by leaves, rivers, and unseen life. Time dissolves here, replaced by rhythm and pulse.",
         galleryImages: [
-          "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=1400&q=80",
-          "https://images.unsplash.com/photo-1523712999610-f77fbcfc3843?auto=format&fit=crop&w=1400&q=80",
-          "https://images.unsplash.com/photo-1502082553048-f009c37129b9?auto=format&fit=crop&w=1400&q=80",
-          "https://images.unsplash.com/photo-1476231682828-37e571bc172f?auto=format&fit=crop&w=1400&q=80",
-          "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&w=1400&q=80",
-          "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?auto=format&fit=crop&w=1400&q=80"
+          "assets/img/emerald1.jpg",
+          "assets/img/emerald2.jpg",
+          "assets/img/emerald3.jpg",
+          "assets/img/emerald4.jpg",
+          "assets/img/emerald5.jpg",
+          "assets/img/emerald6.jpg"
         ]
       },
       {
@@ -158,14 +158,14 @@
         season: "Winter",
         year: "2023",
         status: "AVAILABLE",
-        mainImage: "https://images.unsplash.com/photo-1503177119275-0aa32b3a9368?auto=format&fit=crop&w=1400&q=80",
+        mainImage: "assets/img/eternal1.jpg",
         caption: "Time stood still in the desert heat.",
         description: "Walking under the shadow of millennia-old stones, you feel the weight of history. At sunrise, the pyramids turn gold while the desert swallows every sound. Sand beneath your feet seems to whisper stories of vanished civilizations. By late afternoon, their massive shadows stretch across the dunes and remind you how short a lifetime is. This route is the stone-shaped form of humanity's search for immortality.",
         galleryImages: [
-          "https://images.unsplash.com/photo-1539768942893-daf53e448371?auto=format&fit=crop&w=1400&q=80",
-          "https://images.unsplash.com/photo-1503177119275-0aa32b3a9368?auto=format&fit=crop&w=1600&q=90",
-          "https://images.unsplash.com/photo-1606036685180-d6187349ab23?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cHlyYW1pZHxlbnwwfHwwfHx8MA%3D%3D",
-          "https://images.unsplash.com/photo-1643667996984-fcc69743449d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fHB5cmFtaWR8ZW58MHx8MHx8fDA%3D"
+          "assets/img/eternal1.jpg",
+          "assets/img/eternal2.jpg",
+          "assets/img/eternal3.jpg",
+          "assets/img/eternal4.jpg"
         ]
       },
       {
@@ -175,14 +175,15 @@
         season: "Summer",
         year: "2023",
         status: "AVAILABLE",
-        mainImage: "https://media.istockphoto.com/id/2219434834/photo/mountain-landscape.webp?a=1&b=1&s=612x612&w=0&k=20&c=U2XLBAHsAFPy_DMsnhJpkFcLKEMetK8CncA6A5mcNBs=",
+        mainImage: "assets/img/altai1.jpg",
         caption: "The mountains remember what we forget.",
         description: "Between glacial lakes reflecting sharp peaks, you follow ancient nomadic trails. Each valley brings a different ecosystem, each pass a different story. Shamanic traditions still feel woven into the land's spirit. Wild horses graze in the distance as eagles complete the circle overhead. Walking in Altai feels like touching a part of the world that remains unbroken.",
         galleryImages: [
-          "https://images.unsplash.com/photo-1628534795682-94f707b4ce9e?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGFsdGFpfGVufDB8fDB8fHww",
-          "https://images.unsplash.com/photo-1632137957831-24617d254b44?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzJ8fGFsdGFpfGVufDB8fDB8fHww",
-          "https://images.unsplash.com/photo-1628534449178-96d1cca54b8d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGFsdGFpfGVufDB8fDB8fHwy",
-          "https://images.unsplash.com/photo-1443632864897-14973fa006cf?auto=format&fit=crop&w=1400&q=80"
+          "assets/img/altai1.jpg",
+          "assets/img/altai2.jpg",
+          "assets/img/altai3.jpg",
+          "assets/img/altai4.jpg",
+          "assets/img/altai5.jpg"
         ]
       },
       {
@@ -192,11 +193,11 @@
         season: "Autumn",
         year: "2022",
         status: "ARCHIVED",
-        mainImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?auto=format&fit=crop&w=1600&q=90",
+        mainImage: "assets/img/ancient1.jpg",
         caption: "Walking through centuries of silence.",
         description: "As you walk along this colossal structure following the mountain ridges, you can almost hear history breathing. Every stone carries the trace of a life and a labor. Autumn leaves falling onto ancient masonry remind you of time's cycle. The wall fading into the horizon symbolizes human will challenging nature. This is not only a geographical journey, but a journey through centuries.",
         galleryImages: [
-          "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?auto=format&fit=crop&w=1400&q=80"
+          "assets/img/ancient1.jpg"
         ]
       },
       {
@@ -206,11 +207,11 @@
         season: "Spring",
         year: "2023",
         status: "AVAILABLE",
-        mainImage: "https://images.unsplash.com/photo-1543097692-fa13c6cd8595?auto=format&fit=crop&w=1600&q=90",
+        mainImage: "assets/img/jade1.jpg",
         caption: "Mist that paints the mountains.",
         description: "Granite peaks rise through mist like a living ink painting. Narrow wooden bridges over cliffs blend adrenaline with calm. At dawn, watching the sun break above a sea of clouds is unforgettable. Ancient pines whisper stories in the wind. Huangshan proves nature itself can be a masterpiece.",
         galleryImages: [
-          "https://images.unsplash.com/photo-1543097692-fa13c6cd8595?auto=format&fit=crop&w=1400&q=80"
+          "assets/img/jade1.jpg"
         ]
       },
       {
@@ -220,13 +221,14 @@
         season: "Autumn",
         year: "2023",
         status: "available",
-        mainImage: "https://www.kadrajrotam.com.tr/wp-content/uploads/2026/01/1000112164-scaled.jpg",
+        mainImage: "assets/img/silent1.jpg",
         caption: "The wind sounded louder than footsteps.",
         description: "On the calmest island of the Aegean, time slows down. Olive-lined paths carry traces of the past. Sea-blue and sky-blue melt into one. When late afternoon light hits the rocks, everything turns into golden silence.",
         galleryImages: [
-          "https://www.kadrajrotam.com.tr/wp-content/uploads/2026/01/1000113086-scaled.jpg",
-          "https://www.kadrajrotam.com.tr/wp-content/uploads/2026/01/tepekoy4✨-scaled.jpg",
-          "https://www.kadrajrotam.com.tr/wp-content/uploads/2026/01/kalekoy4-scaled.jpg"
+          "assets/img/silent1.jpg",
+          "assets/img/silent2.jpg",
+          "assets/img/silent3.jpg",
+          "assets/img/silent4.jpg"
         ]
       }
     ];
@@ -352,12 +354,12 @@
   // ============================================
   function initEditorialArchivePage() {
     const photos = [
-      { src: "https://www.kadrajrotam.com.tr/wp-content/uploads/2026/01/bitki_gunbatimi-scaled.jpg", caption: "A wild plant standing against the last light of the day, turning an ordinary sunset into a quiet silhouette." },
-      { src: "https://www.kadrajrotam.com.tr/wp-content/uploads/2026/01/bulut_gunbatimi-scaled.jpg", caption: "Layers of clouds catching the final colors of the sun, stretching light across the horizon." },
-      { src: "https://www.kadrajrotam.com.tr/wp-content/uploads/2026/01/dalgapatlamasi-scaled.jpg", caption: "Waves breaking against the shore, freezing motion where water meets resistance." },
-      { src: "https://www.kadrajrotam.com.tr/wp-content/uploads/2026/01/tasduvar_gul-scaled.jpg", caption: "A faded rose growing beside a worn stone wall, where time and fragility meet." },
-      { src: "https://www.kadrajrotam.com.tr/wp-content/uploads/2026/01/mavikadraj-scaled.jpg", caption: "A small boat resting at the edge of land, suspended between sky and sea." },
-      { src: "https://www.kadrajrotam.com.tr/wp-content/uploads/2026/01/yol_agac2-scaled.jpg", caption: "A curved dirt road cutting through trees, leading forward without revealing its end." }
+      { src: "assets/img/mk1.jpg", caption: "A wild plant standing against the last light of the day, turning an ordinary sunset into a quiet silhouette." },
+      { src: "assets/img/mk2.jpg", caption: "Layers of clouds catching the final colors of the sun, stretching light across the horizon." },
+      { src: "assets/img/mk3.jpg", caption: "Waves breaking against the shore, freezing motion where water meets resistance." },
+      { src: "assets/img/mk4.jpg", caption: "A faded rose growing beside a worn stone wall, where time and fragility meet." },
+      { src: "assets/img/mk5.jpg", caption: "A small boat resting at the edge of land, suspended between sky and sea." },
+      { src: "assets/img/mk6.jpg", caption: "A curved dirt road cutting through trees, leading forward without revealing its end." }
     ];
 
     const grid = document.getElementById("grid");
