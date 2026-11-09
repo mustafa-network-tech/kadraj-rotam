@@ -5,7 +5,7 @@ import { getMessages, getTranslations } from 'next-intl/server';
 import { notFound } from 'next/navigation';
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
-import RepublicWelcome from '@/components/RepublicWelcome';
+import OzelGunEkrani from '@/components/OzelGunEkrani';
 import '../globals.css';
 
 const inter = Inter({
@@ -66,7 +66,7 @@ export default async function LocaleLayout({
           <Navbar />
           <main>{children}</main>
           <Footer />
-          <RepublicWelcome />
+          <OzelGunEkrani />
         </NextIntlClientProvider>
       </body>
     </html>
